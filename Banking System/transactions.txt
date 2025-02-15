@@ -1,0 +1,4 @@
+Time: [2025-02-14T01:53:41.837207600] Account Number: 11790 |Account Type: Savings Account| AccountName: SAV001| Amount: $ 500.00
+Time: [2025-02-14T01:53:41.884256200] Account Number: 11900 |Account Type: Checking Account| AccountName: CHK001| Amount: $ -300.00
+Time: [2025-02-14T01:54:03.774155200] Account Number: 11790 |Account Type: Savings Account| AccountName: SAV001| Amount: $ 500.00
+Time: [2025-02-14T01:54:03.805415400] Account Number: 11900 |Account Type: Checking Account| AccountName: CHK001| Amount: $ -300.00
